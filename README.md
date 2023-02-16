@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @n0ntakorn
-- 👀 I’m interested in mobile application development
+- 👀 I’m interested in user experience and mobile application development
 - 📫 Reach out to me at nontakorn223@gmail.com
      
 
