@@ -1,5 +1,5 @@
 Hi, I’m @n0ntakorn<br/>
-I’m interested in user experience and mobile application development<br/>
+I’m interested in web design and development<br/>
 Reach out to me at nontakorn223@gmail.com<br/>
 
 <h3 align="left">Front-end :</h3>
